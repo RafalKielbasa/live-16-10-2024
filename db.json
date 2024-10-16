@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Wprowadzenie do React",
+      "content": "React to biblioteka JavaScript stworzona przez Facebooka, służąca do budowania interfejsów użytkownika...",
+      "author": "Jan Kowalski",
+      "date": "2024-04-15"
+    },
+    {
+      "id": 2,
+      "title": "Zrozumienie JSON Server",
+      "content": "JSON Server to szybkie narzędzie do tworzenia API RESTful z plików JSON. Idealne do prototypowania i testowania...",
+      "author": "Anna Nowak",
+      "date": "2024-05-10"
+    },
+    {
+      "id": 3,
+      "title": "Podstawy JavaScript ES6",
+      "content": "ES6 wprowadza wiele nowych funkcji do JavaScript, takich jak let, const, arrow functions, klasy i moduły...",
+      "author": "Piotr Zieliński",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 4,
+      "title": "Styling w React za pomocą Styled Components",
+      "content": "Styled Components to biblioteka pozwalająca na pisanie CSS-in-JS, co ułatwia stylizację komponentów w React...",
+      "author": "Maria Wiśniewska",
+      "date": "2024-07-20"
+    },
+    {
+      "id": 5,
+      "title": "Zarządzanie stanem w React z Redux",
+      "content": "Redux to popularna biblioteka do zarządzania stanem aplikacji w React. Umożliwia przewidywalne zarządzanie danymi...",
+      "author": "Krzysztof Lewandowski",
+      "date": "2024-08-12"
+    },
+    {
+      "id": 6,
+      "title": "Tworzenie aplikacji mobilnych z React Native",
+      "content": "React Native pozwala na tworzenie aplikacji mobilnych dla systemów iOS i Android przy użyciu JavaScript i React...",
+      "author": "Ewa Kaczmarek",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 7,
+      "title": "Optymalizacja wydajności aplikacji React",
+      "content": "Optymalizacja wydajności w React obejmuje techniki takie jak memoizacja komponentów, lazy loading, oraz optymalne zarządzanie stanem...",
+      "author": "Tomasz Szymański",
+      "date": "2024-09-25"
+    },
+    {
+      "id": 8,
+      "title": "Testowanie aplikacji React z Jest i React Testing Library",
+      "content": "Testowanie jest kluczowym aspektem tworzenia niezawodnych aplikacji. Jest i React Testing Library oferują potężne narzędzia do testowania komponentów React...",
+      "author": "Agata Wójcik",
+      "date": "2024-10-05"
+    },
+    {
+      "id": 9,
+      "title": "Wprowadzenie do TypeScript w projektach React",
+      "content": "TypeScript to statycznie typowany nadzbiór JavaScript, który pomaga w tworzeniu bardziej bezpiecznego i łatwiejszego w utrzymaniu kodu w projektach React...",
+      "author": "Michał Kamiński",
+      "date": "2024-10-12"
+    },
+    {
+      "id": 10,
+      "title": "Integracja React z API RESTful",
+      "content": "Integracja React z API RESTful umożliwia dynamiczne pobieranie i wysyłanie danych, co jest kluczowe dla nowoczesnych aplikacji webowych...",
+      "author": "Natalia Dudek",
+      "date": "2024-10-16"
+    }
+  ]
+}

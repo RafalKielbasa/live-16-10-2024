@@ -69,6 +69,13 @@
       "content": "Integracja React z API RESTful umożliwia dynamiczne pobieranie i wysyłanie danych, co jest kluczowe dla nowoczesnych aplikacji webowych...",
       "author": "Natalia Dudek",
       "date": "2024-10-16"
+    },
+    {
+      "title": "Tytul",
+      "content": "Jakis tytul",
+      "author": "Michal",
+      "date": "12.12.2002",
+      "id": 11
     }
   ]
 }
